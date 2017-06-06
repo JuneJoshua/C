@@ -1,3 +1,8 @@
+/*
+Uses conversion characters and prints them
+on the screen
+*/
+
 #include <stdlib.h>
 #include <stdio.h>
 int main()
