@@ -8,6 +8,5 @@ int main()
     else{
         printf("Your password is incorrect!\n");
     }
-
     return 0;
 }
