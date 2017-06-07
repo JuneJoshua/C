@@ -19,6 +19,8 @@ int main()
     printf("%d \n", age);
     age = abs(age);
     printf("%d \n", age);
+    
+    printf("%f \n", sqrt(164));
 
     return 0;
 }
